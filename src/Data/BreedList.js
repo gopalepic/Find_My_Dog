@@ -1,11 +1,33 @@
-import React from 'react'
+export const BreedList = [
+  "Rajapalayam",
+    "Chippiparai",
+    "Mudhol Hound",
+    "Kanni",
+    "Pashmi Hound",
+    "Bully Kutta",
+    "Indian Pariah Dog",
+    "Kombai",
+    "Sinhala Hound",
+    "Mahratta Greyhound",
+    "Vikhan Sheepdog",
+    "Indian Spitz",
+    "Jonangi",
+    "Gull Dong",
+    "Gull Terrier",
+    // Foreign Breeds
+    "Labrador Retriever",
+    "German Shepherd",
+    "Golden Retriever",
+    "Bulldog",
+    "Beagle",
+    "Poodle",
+    "Rottweiler",
+    "Yorkshire Terrier",
+    "Boxer",
+    "Dachshund",
+    "Siberian Husky",
+    "Great Dane",
+    "Doberman Pinscher",
+    "Shih Tzu",
+    "Cocker Spaniel"];
 
-const BreedList = () => {
-  return (
-    <div>
-      
-    </div>
-  )
-}
-
-export default BreedList
